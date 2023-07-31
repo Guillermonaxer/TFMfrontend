@@ -1,0 +1,8 @@
+{
+    "/api/user/register": {
+      "target": "http://localhost:4001",
+      "secure": false,
+      "logLevel": "debug"
+     
+    }
+  }
